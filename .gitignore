@@ -1,7 +1,8 @@
-.env
 pgdata
 desktop.ini
 .github
 .devcontainer
 .contentlayer
 asset-backend
+config.bat
+node_modules
