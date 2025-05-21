@@ -1,10 +1,10 @@
 
 
-# furniARt - Augmented Reality-Based Online Furniture Store
+# furnishARt - Augmented Reality-Based Online Furniture Store
 
   
 
-**furniARt** is an AR-based online platform designed to revolutionize the shopping experience by allowing users to interact with and visualize furniture in their own spaces using augmented reality. Customers can see how items will fit and look in their homes before making a purchase, bridging the gap between online and offline shopping.
+**furnishARt** is an AR-based online platform designed to revolutionize the shopping experience by allowing users to interact with and visualize furniture in their own spaces using augmented reality. Customers can see how items will fit and look in their homes before making a purchase, bridging the gap between online and offline shopping.
 
 ## Project Overview
 
